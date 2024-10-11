@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>MTSL Daily Predictions</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/script.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <!-- Header Section -->
+        <header class="header">
+            <h1>Welcome to MTSL Daily Predictions</h1>
+            <p>Your ultimate destination for daily tips, fun, and insights!</p>
+            <a href="https://sirmartinsos.blogspot.com">
+                <img src="image/Logo.jpg" width="400px" height="250px" alt="MTSL Logo">
+            </a>
+        </header>
+
+        <!-- Main Menu Section -->
+        <nav class="menu">
+            <a href="https://www.vanguardngr.com/">Vanguard</a> &nbsp;
+            <a href="https://thenationonlineng.net/">The Nation</a> &nbsp;
+            <a href="https://punchng.com/">Punch</a> &nbsp;
+            <a href="https://dailytrust.com/">Daily Trust</a> &nbsp;
+            <a href="https://guardian.ng/">Guardian</a> &nbsp;
+        </nav>
+
+        <!-- Local Movies Section -->
+        <section class="movies">
+            <h2>Local Movies & Entertainment</h2>
+            <nav class="menu">
+                <a href="https://www.thenetnaija.com/videos/movies">Netnaija</a> &nbsp;
+                <a href="http://www4.123movies.net/">123 Movies</a> &nbsp;
+                <a href="https://o2tvseries.com/">o2tvseries</a> &nbsp;
+                <a href="http://movienolimit.to/">MovieNoLimit</a> &nbsp;
+                <a href="http://youtube.com/">YouTube</a> &nbsp;
+            </nav>
+        </section>
+
+        <!-- Sports and Predictions Section -->
+        <section class="sports-predictions">
+            <h2>Sports Predictions & Wins</h2>
+            <nav class="menu">
+                <a href="https://livescore.com/">Livescore</a> &nbsp;
+                <a href="https://skysports.com/">Sky Sports</a> &nbsp;
+                <a href="https://www.sports247.ng/">Sports24</a> &nbsp;
+                <a href="https://www.bettingsites.ng/to/bet9ja">Bet9ja</a> &nbsp;
+                <a href="https://www.bettingsites.ng/to/1xbet">1XBet</a> &nbsp;
+            </nav>
+
+            <!-- Daily Prediction Table -->
+            <h3>Today's Predictions</h3>
+            <table border="1">
+                <tr>
+                    <th>Date & Time</th>
+                    <th>Sport</th>
+                    <th>Team</th>
+                    <th>Prediction</th>
+                    <th>Scores</th>
+                </tr>
+                <tr>
+                    <td>23/01/2024, 18:00</td>
+                    <td>Football</td>
+                    <td>Guinea vs Senegal</td>
+                    <td>Home Win</td>
+                    <td><a href="https://www.livescore.com/en/football/africa-cup-of-nations-2023/group-c/guinea-vs-senegal/1103473/">Check Scores</a></td>
+                </tr>
+                <tr>
+                    <td>23/01/2024, 18:00</td>
+                    <td>Football</td>
+                    <td>Gambia vs Cameroon</td>
+                    <td>Away or BTTS</td>
+                    <td><a href="https://www.livescore.com/en/football/africa-cup-of-nations-2023/group-c/gambia-vs-cameroon/1103476/">Check Scores</a></td>
+                </tr>
+                <tr>
+                    <td>23/01/2024, 21:00</td>
+                    <td>Football</td>
+                    <td>Mauritania vs Algeria</td>
+                    <td>Over 1.5, Away Win & GG</td>
+                    <td><a href="https://www.livescore.com/en/football/africa-cup-of-nations-2023/group-d/mauritania-vs-algeria/1103480/">Check Scores</a></td>
+                </tr>
+                <tr>
+                    <td>23/01/2024, 21:00</td>
+                    <td>Football</td>
+                    <td>Angola vs Burkina Faso</td>
+                    <td>Draw or Over 1.5, Away Over 0.5</td>
+                    <td><a href="https://www.livescore.com/en/football/africa-cup-of-nations-2023/group-d/angola-vs-burkina-faso/1103484/">Check Scores</a></td>
+                </tr>
+            </table>
+        </section>
+
+        <!-- Testimonials Section -->
+        <section class="testimonials">
+            <h3>Winning Testimonials</h3>
+            <p>"Thanks to MTSL predictions, I won big on the Gambia vs Cameroon match!" – John D.</p>
+            <p>"Accurate tips! I've been following your daily predictions, and they've been spot on!" – Mary A.</p>
+            <p>"Great tips, keep them coming! These predictions have turned into big winnings for me!" – Alex S.</p>
+        </section>
+
+        <!-- Fun Stuff Section -->
+        <section class="fun-stuff">
+            <h2>Fun Games & Mod Links</h2>
+            <nav class="menu">
+                <a href="https://www.modsapk.com/">APK Mods</a> &nbsp;
+                <a href="https://play.google.com/store/games">Google Play Games</a> &nbsp;
+                <a href="https://www.coolmathgames.com/">Cool Math Games</a> &nbsp;
+                <a href="https://www.miniclip.com/games/en/">Miniclip Games</a> &nbsp;
+            </nav>
+        </section>
+
+        <!-- Blog and Social Links -->
+        <section class="social-links">
+            <h2>Follow MTSL</h2>
+            <p>For daily tips, news, and entertainment updates, follow our blog:</p>
+            <a href="https://sirmartinsos.blogspot.com">MTSL Blog</a>
+
+            <p>Connect with us on social media:</p>
+            <a href="https://www.facebook.com/">Facebook</a> &nbsp;
+            <a href="https://twitter.com/">Twitter</a> &nbsp;
+            <a href="https://www.instagram.com/">Instagram</a> &nbsp;
+        </section>
+
+        <!-- Footer Section -->
+        <footer class="footer">
+            <p>&copy; 2024 MTSL Academy. All rights reserved.</p>
+            <p>Powered by <a href="https://www.instagram.com/angelic_introvert/">Martin Osayande</a></p>
+        </footer>
+    </div>
+</body>
+
+</html>
